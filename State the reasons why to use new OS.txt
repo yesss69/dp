@@ -1,6 +1,0 @@
-State the reasons why to use new OS. 
-Measurereal world phenomena Event-driven architecture  ResourceContraints-Hurry up and sleep!  
-Adapt to changing technologies-Modularity &  re-use  
-Applications spread over many small nodes-
-Communication is fundamental 
-Inaccessible location, critical operation PermaSense Project Pictures by Jan  Beutel 7- Robustness
