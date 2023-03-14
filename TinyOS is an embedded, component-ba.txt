@@ -1,0 +1,2 @@
+What is TinyOS ?
+TinyOSis  an operating system for  sensor nodes–Open source project  with  a  strong academic  background–Hardware drivers,  libraries,  tools, compiler • TinyOSapplications  are written in nesC–C dialect with  extra features–nesCcompiler converts  your  application into  plain C  codeTinyOS is an embedded, component-based operating system and platform for low-power wireless devices, such as those used in wireless sensor networks (WSNs), smartdust, ubiquitous computing, personal area networks, building automation, and smart meters.
