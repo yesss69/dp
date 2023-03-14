@@ -1,6 +1,0 @@
-Explain 4 components of a Wireless Sensor Network
-
-a)  ‘Sensors’  connected to each node by a wired connection. In our case, we use sensors  that  can  measure  soil  moisture,  electrical  conductivity,  soil  temperature, water  pressure,  flow  rate,  or  a  range  of  weather  variables  (light,  air  temperature, wind,  humidity,  etc.).   
-b)  ‘Nodes’  collect  the  data  from  sensors  and  transmit  that  to  a  ‘base  station’ computer  using  a  one  way (in  the  case  of  monitoring)  or  two-way  (in the  case  of monitoring  and  control)  radio.  Nodes  can  simply  monitor  environmental  and  soil conditions  or  can  be  used  to  make  control  decisions.  For  example,  some  nodes  have the  capability  to  control  an  electric  valve,  such  as  an  irrigation  valve. 
-c)  ‘Base  Station’  computer  connects  the  system  to  the  internet,  so  that  data  collected by  the  nodes,  then  transmitted  to  the  base  station  computer,  can  be  viewed anywhere  an internet connection is  available. 
-d)  ‘Graphical  User  Interface’  is the web-based  software  package, that allows  the  data collected by sensors to be viewed. The software is also used to set  irrigation parameters.
